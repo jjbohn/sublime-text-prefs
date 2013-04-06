@@ -1,0 +1,38 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CoffeeCompile",
+		"CoffeeScript",
+		"ColorPick",
+		"ConvertToUTF8",
+		"Cucumber",
+		"DetectSyntax",
+		"Emmet",
+		"EncodingHelper",
+		"ERB Insert and Toggle Commands",
+		"Github Tools",
+		"google-search",
+		"Handlebars",
+		"HTML5",
+		"LESS",
+		"LoremIpsum",
+		"Markdown Preview",
+		"nginx",
+		"Nodejs",
+		"nodejsLauncher",
+		"Origami",
+		"Package Control",
+		"Rails Partial",
+		"RSpec",
+		"RubyTest",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Syntax Matcher",
+		"Twitter Bootstrap Snippets",
+		"Web Inspector"
+	]
+}
