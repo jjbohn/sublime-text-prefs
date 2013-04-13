@@ -2,6 +2,7 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"AutoSlim",
 		"BracketHighlighter",
 		"CoffeeCompile",
 		"CoffeeScript",
@@ -26,6 +27,7 @@
 		"Package Control",
 		"Rails Partial",
 		"RSpec",
+		"ruby-slim.tmbundle",
 		"RubyTest",
 		"Sass",
 		"SCSS",

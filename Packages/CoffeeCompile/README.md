@@ -3,11 +3,11 @@
 This package allows you to compile some or all of your CoffeeScript right from the editor.
 The JavaScript output will even have syntax highlighting!
 
-
-##Usage
-
 Just highlight some CoffeeScript code, right click and select the _Coffee Compile_ command.
 To compile the whole file, don't highlight any text.
+
+
+![CoffeeCompile Screenshot](http://i.imgur.com/2J49Q.png)
 
 
 ## Common Issues
@@ -54,6 +54,3 @@ $ git clone https://github.com/surjikal/sublime-coffee-compile "Coffee Compile"
 $ cd "%APPDATA%\Sublime Text 2"
 $ git clone https://github.com/surjikal/sublime-coffee-compile "Coffee Compile"
 ```
-
-## Screenshot
-![CoffeeCompile Screenshot](http://i.imgur.com/2J49Q.png)
