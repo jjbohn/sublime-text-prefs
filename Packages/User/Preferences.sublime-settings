@@ -1,6 +1,5 @@
 {
-	"theme": "Flatland.sublime-theme",
-  "color_scheme": "Packages/Theme - Flatland/Flatland.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
 	"font_size": 13.0,
@@ -8,7 +7,13 @@
 	[
 		"Vintage"
 	],
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS"],
+	   "file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db"],
+	   // These files will still show up in the side bar, but won't be included in
+	   // Goto Anything or Find in Files
+	   "binary_file_patterns": ["*/tmp/*", "*.woff", "*.ttf", "*.jpg", "*.jpgs", "*.jpeg", "*.png", "*.pngs", "*.gif", "*.gifs", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip"],
 	"tab_size": 2,
+	"theme": "Flatland.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": "false"
